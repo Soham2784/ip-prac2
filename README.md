@@ -103,8 +103,8 @@
         }
 
         .searchh {
+            margin-left: 100px;
             border-radius: 10px;
-            margin: 200px;
             width: 250px;
             height: 24px;
         }
